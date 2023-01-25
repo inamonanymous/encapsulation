@@ -1,0 +1,15 @@
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\bin\Debug\net6.0\preFinalExam.exe
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\bin\Debug\net6.0\preFinalExam.deps.json
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\bin\Debug\net6.0\preFinalExam.runtimeconfig.json
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\bin\Debug\net6.0\preFinalExam.dll
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\bin\Debug\net6.0\preFinalExam.pdb
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.csproj.AssemblyReference.cache
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.AssemblyInfoInputs.cache
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.AssemblyInfo.cs
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.dll
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\refint\preFinalExam.dll
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.pdb
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\preFinalExam.genruntimeconfig.cache
+C:\Users\Stephen Aguilar\source\repos\preFinalExam\preFinalExam\obj\Debug\net6.0\ref\preFinalExam.dll
